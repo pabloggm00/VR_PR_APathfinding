@@ -262,12 +262,12 @@ MonoBehaviour:
   gridWidth: 8
   cellHeight: 1
   cellWidth: 1
-  percentageWalls: 40
-  generatePath: 1
-  visualiseGrid: 1
+  percentageWalls: 20
   wall: {fileID: 5113976663415422694, guid: e313cd76690f6e8438cb83a7e8accd36, type: 3}
   floor: {fileID: 1473981583238709079, guid: 1b54531208fac7c4a9b443cfddc9d32c, type: 3}
+  playerPrefab: {fileID: 5113976663415422694, guid: aff6b1ea9ba04414e8248cf101cc495b, type: 3}
   gridParent: {fileID: 1873890414}
+  path: []
 --- !u!1 &1873890413
 GameObject:
   m_ObjectHideFlags: 0
